@@ -1,0 +1,16 @@
+footer {
+    background-color: aqua;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 30px;
+}
+
+header {
+    background-color: blue;
+    padding: 25px;
+}
+
+header nav {
+    display: flex;
+    gap: 1em;
+  }
