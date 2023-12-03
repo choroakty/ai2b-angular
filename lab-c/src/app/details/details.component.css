@@ -1,0 +1,21 @@
+.details-container {
+    padding: 20px;
+  }
+  
+  .person {
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px 0;
+    max-width: 320px;
+  }
+  
+  dl {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  
+  dl.address {
+    background-color: #b3a9a9;
+    margin: 10px -20px 0 -20px;
+    padding: 0 20px;
+  }
